@@ -1,0 +1,16 @@
+D:/GuoJinyao/homework/2-10/filter.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-10/filter.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module filter
+
+Top level modules:
+	filter
+
+} {} {}} D:/GuoJinyao/homework/2-10/tb_filter.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-10/tb_filter.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module filter
+-- Compiling module tb_filter
+
+Top level modules:
+	tb_filter
+
+} {} {}}

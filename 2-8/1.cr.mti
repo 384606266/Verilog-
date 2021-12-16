@@ -1,0 +1,16 @@
+D:/GuoJinyao/homework/2-8/tb_comb_str.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-8/tb_comb_str.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_str
+-- Compiling module tb_comb_str
+
+Top level modules:
+	tb_comb_str
+
+} {} {}} D:/GuoJinyao/homework/2-8/comb_str.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-8/comb_str.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_str
+
+Top level modules:
+	comb_str
+
+} {} {}}

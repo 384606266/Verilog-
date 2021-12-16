@@ -1,0 +1,24 @@
+D:/GuoJinyao/homework/2-16/top.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-16/top.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mealy
+-- Compiling module moore
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} D:/GuoJinyao/homework/2-16/mealy.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-16/mealy.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module mealy
+
+Top level modules:
+	mealy
+
+} {} {}} D:/GuoJinyao/homework/2-16/moore.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-16/moore.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module moore
+
+Top level modules:
+	moore
+
+} {} {}}

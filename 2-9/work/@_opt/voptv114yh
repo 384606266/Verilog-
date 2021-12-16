@@ -1,0 +1,51 @@
+m255
+K3
+13
+cModel Technology
+dD:\GuoJinyao\homework\2-8
+T_opt
+V?9kCDM=mghN3hTb@a]jLD2
+04 7 4 work tb_LFSR fast 0
+=1-8045ddbf58ab-61b9d061-183-487c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vLFSR
+IG_O[e=AU^3d2hL@ZmSOYg0
+V_N]RY=39:5fNZaL67N]^>0
+Z0 dD:\GuoJinyao\homework\2-9
+w1639567448
+FLFSR.v
+Z1 8D:/GuoJinyao/homework/2-9/tb_LFSR.v
+Z2 FD:/GuoJinyao/homework/2-9/tb_LFSR.v
+L0 5
+Z3 OL;L;10.1c;51
+r1
+31
+Z4 !s108 1639567448.732000
+Z5 !s107 LFSR.v|D:/GuoJinyao/homework/2-9/tb_LFSR.v|
+Z6 !s90 -reportprogress|300|-work|work|-vopt|D:/GuoJinyao/homework/2-9/tb_LFSR.v|
+Z7 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@l@f@s@r
+!i10b 1
+!s100 C0;F41:gEKi::FkSnKUGg0
+!s85 0
+vtb_LFSR
+Iz:?Hb]02fN]OC:O284h4:3
+VXWlVG1RSeD>kX;R?F[:NV0
+Z8 dD:\GuoJinyao\homework\2-9
+w1639566855
+R1
+R2
+L0 7
+R3
+r1
+31
+R4
+R5
+R6
+R7
+ntb_@l@f@s@r
+!s100 9PWe:7jJ]8X0aG`X7dWd>2
+!i10b 1
+!s85 0

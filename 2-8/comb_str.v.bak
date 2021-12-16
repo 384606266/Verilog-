@@ -1,0 +1,6 @@
+//File comb_str.v
+
+`timescale 1ns/1ns
+
+module comb_str(y,sel,A,B,C,D);
+  

@@ -1,0 +1,31 @@
+D:/GuoJinyao/homework/2-5/comb_Y1.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-5/comb_Y1.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_Y1
+
+Top level modules:
+	comb_Y1
+
+} {} {}} D:/GuoJinyao/homework/2-5/comb_Y2.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-5/comb_Y2.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_Y2
+
+Top level modules:
+	comb_Y2
+
+} {} {}} D:/GuoJinyao/homework/2-5/tb_comb_Y1.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-5/tb_comb_Y1.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_Y1
+-- Compiling module tb_comb_Y1
+
+Top level modules:
+	tb_comb_Y1
+
+} {} {}} D:/GuoJinyao/homework/2-5/tb_comb_Y2.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-5/tb_comb_Y2.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_Y2
+-- Compiling module tb_comb_Y2
+
+Top level modules:
+	tb_comb_Y2
+
+} {} {}}

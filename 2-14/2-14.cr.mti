@@ -1,0 +1,16 @@
+D:/GuoJinyao/homework/2-14/sram.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-14/sram.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module sram
+
+Top level modules:
+	sram
+
+} {} {}} D:/GuoJinyao/homework/2-14/tb_sram.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-14/tb_sram.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module sram
+-- Compiling module tb_sram
+
+Top level modules:
+	tb_sram
+
+} {} {}}

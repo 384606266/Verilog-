@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+dD:\GuoJinyao\homework\2-9
+T_opt
+VRVJ0CzJaCzm9n[N^TEhbE0
+04 9 4 work tb_filter fast 0
+=1-8045ddbf58ab-61b9d94c-3c2-31b4
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vfilter
+IUZZ^Ag>H`_KC76FJ4AS[E3
+V=<M@>T;Z4ZCnj@@HkJeKJ3
+Z0 dD:\GuoJinyao\homework\2-10
+Z1 w1639569731
+Ffilter.v
+Z2 8D:/GuoJinyao/homework/2-10/tb_filter.v
+Z3 FD:/GuoJinyao/homework/2-10/tb_filter.v
+L0 5
+Z4 OL;L;10.1c;51
+r1
+31
+Z5 !s108 1639569731.536000
+Z6 !s107 filter.v|D:/GuoJinyao/homework/2-10/tb_filter.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|D:/GuoJinyao/homework/2-10/tb_filter.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 N9:`nLTQef@gAaajA`BC[1
+!s85 0
+vtb_filter
+!s100 M9Y7Xzz=a@868f=Dj@PcL3
+INbgKVS>MDC6gJ5Qj^WhkW0
+V1Z3kiIkQJgd5z6Y_Cl0F:2
+Z9 dD:\GuoJinyao\homework\2-10
+R1
+R2
+R3
+L0 7
+R4
+r1
+31
+R5
+R6
+R7
+R8
+!i10b 1
+!s85 0

@@ -1,0 +1,15 @@
+D:/GuoJinyao/homework/2-11/counter8b_updown.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-11/counter8b_updown.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module counter8b_updown
+
+Top level modules:
+	counter8b_updown
+
+} {} {}} D:/GuoJinyao/homework/2-11/tb_counter8b_updown.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-11/tb_counter8b_updown.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module tb_counter8b_updown
+
+Top level modules:
+	tb_counter8b_updown
+
+} {} {}}

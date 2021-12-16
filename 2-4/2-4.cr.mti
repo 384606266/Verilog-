@@ -1,0 +1,41 @@
+D:/GuoJinyao/homework/2-4/comb_dataflow.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-4/comb_dataflow.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_dataflow
+
+Top level modules:
+	comb_dataflow
+
+} {} {}} D:/GuoJinyao/homework/2-4/testbench_comb.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-4/testbench_comb.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_str
+-- Compiling module comb_dataflow
+-- Compiling module comb_behavior
+-- Compiling UDP comb_prim
+-- Compiling module testbech_comb
+
+Top level modules:
+	comb_behavior
+	testbech_comb
+
+} {} {}} D:/GuoJinyao/homework/2-4/comb_prim.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-4/comb_prim.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling UDP comb_prim
+
+Top level modules:
+	--none--
+
+} {} {}} D:/GuoJinyao/homework/2-4/comb_behavior.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-4/comb_behavior.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_behavior
+
+Top level modules:
+	comb_behavior
+
+} {} {}} D:/GuoJinyao/homework/2-4/comb_str.v {1 {vlog -work work -vopt D:/GuoJinyao/homework/2-4/comb_str.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module comb_str
+
+Top level modules:
+	comb_str
+
+} {} {}}

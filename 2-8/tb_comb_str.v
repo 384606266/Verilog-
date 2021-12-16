@@ -1,0 +1,28 @@
+//File tb_comb_str.v
+
+`timescale 1ns/1ns
+
+`include "comb_str.v"
+
+module tb_comb_str();
+  reg A,B,C,D,sel;
+  wire y;
+  
+  comb_str a(y,sel,A,B,C,D);
+  
+  initial begin
+    sel = 1'b0;
+    #50 sel = 1'b1;
+  end
+  
+  initial begin
+    {A,B,C,D} = 4'b0;
+    repeat(100) #2 {A,B,C,D} = {A,B,C,D} + 1;
+  end
+  
+  initial begin
+    $monitor("At time %4t, sel=%b, A=%b, B=%b, C=%b, D=%b, y=%b",
+              $time, sel, A, B, C, D, y);
+  end
+
+endmodule

@@ -1,0 +1,10 @@
+//File?mealy.v
+
+`timescale 1ns/1ns
+
+module mealy(flag, din, clk, rst);
+  input din,clk,rst;
+  output reg flag;
+  
+  
+  

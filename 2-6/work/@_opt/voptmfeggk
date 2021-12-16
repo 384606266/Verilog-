@@ -1,0 +1,48 @@
+m255
+K3
+13
+cModel Technology
+dD:\GuoJinyao\homework\2-5
+T_opt
+V:ilo6EMV9D`hhJ1dYfSWD2
+04 13 4 work tb_ones_count fast 0
+=1-8045ddbf58ab-61b8c2b2-171-5544
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vones_count
+Im;3JJV?c5oSST`Q7D5a;i1
+V39f4PJ7QdEoa50d14c_Gc2
+Z0 dD:\GuoJinyao\homework\2-6
+w1639498408
+8D:/GuoJinyao/homework/2-6/ones_count.v
+FD:/GuoJinyao/homework/2-6/ones_count.v
+L0 5
+Z1 OL;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 2c=ZSH[oibZiT5Bbd04ID2
+!s108 1639498408.225000
+!s107 D:/GuoJinyao/homework/2-6/ones_count.v|
+!s90 -reportprogress|300|-work|work|-vopt|D:/GuoJinyao/homework/2-6/ones_count.v|
+!i10b 1
+!s85 0
+vtb_ones_count
+!s100 khODWk3DQ@YA3`HiT]lF^2
+IFJ3^PP2m?oZJk3RiQ?hM30
+V7Z5cXk4@eeblYBZi;IKoC1
+Z3 dD:\GuoJinyao\homework\2-6
+w1639498371
+8D:/GuoJinyao/homework/2-6/tb_ones_count.v
+FD:/GuoJinyao/homework/2-6/tb_ones_count.v
+L0 5
+R1
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|D:/GuoJinyao/homework/2-6/tb_ones_count.v|
+R2
+!i10b 1
+!s85 0
+!s108 1639498408.270000
+!s107 D:/GuoJinyao/homework/2-6/tb_ones_count.v|

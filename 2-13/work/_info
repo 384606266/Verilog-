@@ -1,0 +1,49 @@
+m255
+K3
+13
+cModel Technology
+dD:\GuoJinyao\homework\2-12
+T_opt
+V94aPQBI5b[@_7>K7a3Q6U0
+04 16 4 work tb_shift_counter fast 0
+=1-8045ddbf58ab-61b9efb9-6a-6f4c
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vshift_counter
+I5NF=1kJdmmFFU6:1g22Q?2
+VoFM3Z4Xad@1QJ6X]CJIF`2
+Z0 dD:\GuoJinyao\homework\2-13
+Z1 w1639575471
+Fshift_counter.v
+Z2 8D:/GuoJinyao/homework/2-13/tb_shift_counter.v
+Z3 FD:/GuoJinyao/homework/2-13/tb_shift_counter.v
+L0 5
+Z4 OL;L;10.1c;51
+r1
+31
+Z5 !s108 1639575471.387000
+Z6 !s107 shift_counter.v|D:/GuoJinyao/homework/2-13/tb_shift_counter.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|D:/GuoJinyao/homework/2-13/tb_shift_counter.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 e4>L8bcF^R;0mDWCRRE7P3
+!s85 0
+vtb_shift_counter
+I9EkMcFMI@RK:lm_BOeaj`3
+VWD]d;V`g]Aco7:?Q?5XG93
+Z9 dD:\GuoJinyao\homework\2-13
+R1
+R2
+R3
+L0 7
+R4
+r1
+31
+R5
+R6
+R7
+R8
+!i10b 1
+!s100 F5;Yna@jZkzjX[zFWNHgG3
+!s85 0

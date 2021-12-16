@@ -1,0 +1,51 @@
+m255
+K3
+13
+cModel Technology
+dD:\GuoJinyao\homework\2-11
+T_opt
+V=nmm7_D_>eSn^d5WQLAj03
+04 6 4 work tb_ALU fast 0
+=1-8045ddbf58ab-61b9e536-23a-8a04
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vALU
+IJFaXV?TbH?oM>[Y@^omkm0
+Vd`E7UzZ2=iW>9Meb6T^j_3
+Z0 dD:\GuoJinyao\homework\2-12
+Z1 w1639572779
+FALU.v
+Z2 8D:/GuoJinyao/homework/2-12/tb_ALU.v
+Z3 FD:/GuoJinyao/homework/2-12/tb_ALU.v
+L0 5
+Z4 OL;L;10.1c;51
+r1
+31
+Z5 !s108 1639572779.275000
+Z6 !s107 ALU.v|D:/GuoJinyao/homework/2-12/tb_ALU.v|
+Z7 !s90 -reportprogress|300|-work|work|-vopt|D:/GuoJinyao/homework/2-12/tb_ALU.v|
+Z8 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+n@a@l@u
+!i10b 1
+!s100 :g^5i9]JZj]7G=fIE7aUh0
+!s85 0
+vtb_ALU
+Ii>XC@nP`M_BfK7iYPdk610
+VJ;TnOjHFn3KbASFPGPEl41
+Z9 dD:\GuoJinyao\homework\2-12
+R1
+R2
+R3
+L0 7
+R4
+r1
+31
+R5
+R6
+R7
+R8
+ntb_@a@l@u
+!i10b 1
+!s100 _K7^WLf1k3`^HUDk]fkAK3
+!s85 0
